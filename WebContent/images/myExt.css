@@ -1,0 +1,174 @@
+.btn_login {
+	background-image: url(btn_login.gif) !important;
+}
+
+.table_add {
+	background-image: url(table_add.png) !important;
+}
+.node_dir {
+	background-image: url(node_dir.png) !important;
+}
+.node_leaf {
+	background-image: url(node_leaf.png) !important;
+}
+
+.table_add_sub {
+	background-image: url(table_add_sub.gif) !important;
+}
+
+.table_delete {
+	background-image: url(table_delete.png) !important;
+}
+
+.table_edit {
+	background-image: url(table_edit.png) !important;
+}
+
+.table_query {
+	background-image: url(table_query.png) !important;
+}
+
+.table_reload {
+	background-image: url(table_refresh.gif) !important;
+}
+
+.x-column-tree .x-tree-node {
+	zoom: 1;
+}
+
+.x-column-tree .x-tree-node-el {
+	/*border-bottom:1px solid #eee; borders? */
+	zoom: 1;
+}
+
+.x-column-tree .x-tree-selected {
+	background: #d9e8fb;
+}
+
+.x-column-tree  .x-tree-node a {
+	line-height: 18px;
+	vertical-align: middle;
+}
+
+.x-column-tree  .x-tree-node a span {
+	
+}
+
+.x-column-tree  .x-tree-node .x-tree-selected a span {
+	background: transparent;
+	color: #000;
+}
+
+.x-tree-col {
+	float: left;
+	overflow: hidden;
+	padding: 0 1px;
+	zoom: 1;
+}
+
+.x-tree-col-text,.x-tree-hd-text {
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	padding: 3px 3px 3px 5px;
+	white-space: nowrap;
+	font: normal 11px arial, tahoma, helvetica, sans-serif;
+}
+
+.x-tree-headers {
+	background: #f9f9f9
+		url(../ext/resources/images/default/grid/grid3-hrow.gif) repeat-x 0
+		bottom;
+	cursor: default;
+	zoom: 1;
+}
+
+.x-tree-hd {
+	float: left;
+	overflow: hidden;
+	border-left: 1px solid #eee;
+	border-right: 1px solid #d0d0d0;
+}
+
+.task {
+	background-image: url(node_leaf.png) !important;
+}
+
+.task-folder {
+	background-image: url(node_dir.png) !important;
+}
+
+.ux-multicombo-icon {
+	width: 16px;
+	height: 16px;
+	float: left;
+	background-position: -1px -1px ! important;
+	background-repeat: no-repeat ! important;
+}
+
+.ux-multicombo-icon-checked {
+	background: transparent
+		url(../ext/resources/images/default/menu/checked.gif);
+}
+
+.ux-multicombo-icon-unchecked {
+	background: transparent
+		url(../ext/resources/images/default/menu/unchecked.gif);
+}
+
+.x-tree-checkbox {
+	background: url('../ext/resources/images/default/form/checkbox.gif')
+		no-repeat 0 0;
+	height: 13px;
+	width: 13px;
+	margin: 0 1px;
+	vertical-align: middle;
+}
+
+.x-tree-checkbox-over .x-tree-checkbox {
+	background-position: -13px 0;
+}
+
+.x-tree-checkbox-down .x-tree-checkbox {
+	background-position: -26px 0;
+}
+
+.x-tree-node-disabled .x-tree-checkbox {
+	background-position: -39px 0;
+}
+
+.x-tree-node-checked {
+	background-position: 0 -13px;
+}
+
+.x-tree-checkbox-over .x-tree-node-checked {
+	background-position: -13px -13px;
+}
+
+.x-tree-checkbox-down .x-tree-node-checked {
+	background-position: -26px -13px;
+}
+
+.x-tree-node-disabled .x-tree-node-checked {
+	background-position: -39px -13px;
+}
+
+.x-tree-node-grayed {
+	background-position: 0 -26px;
+}
+
+.x-tree-checkbox-over .x-tree-node-grayed {
+	background-position: -13px -26px;
+}
+
+.x-tree-checkbox-down .x-tree-node-grayed {
+	background-position: -26px -26px;
+}
+
+.x-tree-node-disabled .x-tree-node-grayed {
+	background-position: -39px -26px;
+}
+
+.x-grid3-cell-inner{
+	white-space:normal;
+}
